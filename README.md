@@ -1,6 +1,7 @@
 # ECE230-FinalProject
 
-### Names: Austin Bartram, Colby Allen
+### Names: 
+Austin Bartram, Colby Allen
 
 ## Basys 3 Board Reference
 
